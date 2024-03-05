@@ -5,11 +5,11 @@ nav_order: 3
 ---
 
 {: .note-title }
-<b>#3</b> 14th October 2021
-
-<H3>"Using NEURO_QUAL as a medical student"</H3>
-
-<i> by Lara Onbasi, Hacettepe University Faculty of Medicine, Ankara, Turkey</i>
+> <b>#3</b> 14th October 2021
+> 
+> <H3>"Using NEURO_QUAL as a medical student"</H3>
+> 
+> <i> by Lara Onbasi, Hacettepe University Faculty of Medicine, Ankara, Turkey</i>
 
 
 As a medical student, I believe one of the most important aspects of medical practice for me to learn is the qualitative aspect of research and treatment. I see this as a very crucial part of my training because it will help me understand patient experiences and how change can be implemented in different areas of medicine. So, I find it very exciting whenever I see new research published on the qualitative aspects of neurosurgery, since it is a specialty that I am very interested in, and try to keep up with the increasing knowledge in this field as much as I can. That is how I found Neuro_Qual and as soon as I saw the vision for this project, I knew that I wanted to be a part of it. It is incredible to be a part of the team working on Neuro_Qual, which will undoubtedly be an invaluable resource for neurosurgeons and neurosurgery & research enthusiasts around the globe.
