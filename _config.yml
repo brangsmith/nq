@@ -8,3 +8,8 @@ aux_links:
   NIHR GHRG ABSI: https://absi.world
   Podcasts: https://open.spotify.com/show/7MYupa3n8lF3HWNZNqjYSn?si=wRaEuIdRQrGefqON13iifQ&dl_branch=1&nd=1&dlsi=ecad593a875e4358
   Contact: mailto:bgs30@cam.ac.uk?subject=NEUROQUAL
+
+callouts:
+  blog:
+    title: Blog
+    color: purple
