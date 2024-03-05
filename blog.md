@@ -12,8 +12,8 @@ nav_order: 3
 
 
 {: .blog-title }
-> <b>#3</b> 14th October 2021
-> <img src="https://absi.link/lara.png" style="float:left;">
+> <b>BLOG #1</b> 14th October 2021
+> <img src="https://absi.link/lara.png" style="float:left; padding: 5px; width=50%">
 > <H3>"Using NEURO_QUAL as a medical student"</H3>
 > 
 > <i> by Lara Onbasi, Hacettepe University Faculty of Medicine, Ankara, Turkey</i>
