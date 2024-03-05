@@ -5,13 +5,13 @@ nav_order: 3
 ---
 
 
-{: .note-title }
+{: .blog }
 > My note title
 >
 > A paragraph with a custom title callout
 
 
-{: .note-title }
+{: .blog }
 > <b>#3</b> 14th October 2021
 > 
 > <H3>"Using NEURO_QUAL as a medical student"</H3>
